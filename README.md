@@ -44,9 +44,21 @@ The final stage performs:
 * Advanced aggregation network for feature combination
 * End-to-end trainable pipeline
 
-## Implementation Details
+## Results
 
-The pipeline implements a sophisticated object detection 
-system that leverages diffusion processes to enhance feature extraction and object detection accuracy. 
-The diffusion process creates a sequence of increasingly noisy versions of the input image, which are then processed 
-through a feature extraction pipeline to generate rich, multi-scale feature representations.
+
+### Initial Epochs
+
+![image1](https://github.com/user-attachments/assets/2015a0eb-c3fe-480b-b205-f99d2eb11fcc)
+
+### Intermediate Epochs
+
+![image2](https://github.com/user-attachments/assets/a99f7808-3740-4d94-9e5a-1174944f8406)
+
+### Final Epochs
+
+![image3](https://github.com/user-attachments/assets/3c4005cd-4bd9-4dce-9d81-c718b0decb33)
+
+
+
+
